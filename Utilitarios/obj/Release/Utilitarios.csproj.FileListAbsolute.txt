@@ -1,0 +1,24 @@
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Release\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Utilitarios\bin\Release\Utilitarios.dll
+C:\mt_deluxe(servicios)\Utilitarios\bin\Release\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.dll
+C:\mt_deluxe(servicios)\Utilitarios\obj\Release\Utilitarios.pdb

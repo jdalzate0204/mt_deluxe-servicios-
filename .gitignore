@@ -1,32 +1,22 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+.vs/
+ApiServicios/App_Start/
+ApiServicios/Areas/
+ApiServicios/bin/
+ApiServicios/Content/
+ApiServicios/fonts/
+ApiServicios/Models/
+ApiServicios/obj/
+ApiServicios/Properties/
+ApiServicios/Scripts/
+ApiServicios/Views/
+ApiServicios/ApiServicios.csproj
+ApiServicios/ApiServicios.csproj.user
+ApiServicios/favicon
+ApiServicios/Global.asax
+ApiServicios/Global.asax.cs
+packages/
+Data/bin/
+Logica/bin/
+Utilitarios/bin/
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+*.sql

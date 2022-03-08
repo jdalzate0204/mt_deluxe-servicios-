@@ -1,0 +1,38 @@
+C:\Users\acer\Documents\1. Universidad\7° Semestre (2021-1)\Ingenieria de Software 2\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\1. Universidad\7° Semestre (2021-1)\Ingenieria de Software 2\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.dll
+C:\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.dll
+C:\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache

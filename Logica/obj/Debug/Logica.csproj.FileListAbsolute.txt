@@ -1,0 +1,92 @@
+C:\Users\acer\Documents\mt_deluxe\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\acer\Documents\mt_deluxe\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Logica.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Logica.pdb
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Data.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Data.pdb
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\mt_deluxe\Logica\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\mt_deluxe\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\acer\Documents\mt_deluxe\Logica\obj\Debug\Logica.dll
+C:\Users\acer\Documents\mt_deluxe\Logica\obj\Debug\Logica.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Logica.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Logica.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Data.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Data.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\obj\Debug\Logica.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Logica\obj\Debug\Logica.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Logica.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Logica.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Data.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Data.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\obj\Debug\Logica.dll
+C:\Users\acer\Documents\mt_deluxe(servicios)\Logica\obj\Debug\Logica.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Logica.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Logica.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Data.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Data.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\obj\Debug\Logica.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Logica\obj\Debug\Logica.pdb
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Logica.dll
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Logica.pdb
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Data.dll
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.dll
+C:\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.dll
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Data.pdb
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Logica\bin\Debug\EntityFramework.xml
+C:\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\mt_deluxe(servicios)\Logica\obj\Debug\Logica.dll
+C:\mt_deluxe(servicios)\Logica\obj\Debug\Logica.pdb
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Logica.dll.config
+C:\mt_deluxe(servicios)\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Logica.dll.config
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Logica.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Logica.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Data.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Data.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\obj\Debug\Logica.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Logica\obj\Debug\Logica.pdb
+C:\mt_deluxe(servicios)\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache

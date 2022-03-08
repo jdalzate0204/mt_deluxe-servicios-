@@ -1,0 +1,144 @@
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Data.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Data.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Npgsql.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Buffers.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Memory.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Text.Json.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.ValueTuple.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Utilitarios.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Utilitarios.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Npgsql.pdb
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\Npgsql.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Buffers.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Memory.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Text.Json.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\bin\Release\System.ValueTuple.xml
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\obj\Release\Data.csproj.CopyComplete
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\obj\Release\Data.dll
+C:\Users\User\Downloads\mt_deluxe (3)\mt_deluxe\Data\obj\Release\Data.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Data.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Data.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Npgsql.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Buffers.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Memory.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Numerics.Vectors.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Text.Json.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.ValueTuple.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Utilitarios.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Utilitarios.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Npgsql.pdb
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\Npgsql.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Buffers.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Memory.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Numerics.Vectors.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Text.Json.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\bin\Release\System.ValueTuple.xml
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\obj\Release\Data.csproj.CopyComplete
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\obj\Release\Data.dll
+C:\Users\acer\Downloads\mt_deluxe(servicios)\Data\obj\Release\Data.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Data.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Data.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Npgsql.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Buffers.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Memory.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Text.Json.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.ValueTuple.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Utilitarios.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Utilitarios.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Npgsql.pdb
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\Npgsql.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Buffers.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Memory.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Text.Json.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\bin\Release\System.ValueTuple.xml
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\obj\Release\Data.csproj.CopyComplete
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\obj\Release\Data.dll
+C:\Users\User\Documents\mt_deluxe_servicios_unico\Data\obj\Release\Data.pdb
+C:\mt_deluxe(servicios)\Data\bin\Release\Data.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\Data.pdb
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework6.Npgsql.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\Npgsql.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Buffers.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Memory.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Numerics.Vectors.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Text.Encodings.Web.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Text.Json.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\System.ValueTuple.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\Utilitarios.dll
+C:\mt_deluxe(servicios)\Data\bin\Release\Utilitarios.pdb
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\EntityFramework6.Npgsql.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\Npgsql.pdb
+C:\mt_deluxe(servicios)\Data\bin\Release\Npgsql.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Buffers.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Memory.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Numerics.Vectors.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Text.Encodings.Web.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Text.Json.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\mt_deluxe(servicios)\Data\bin\Release\System.ValueTuple.xml
+C:\mt_deluxe(servicios)\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\mt_deluxe(servicios)\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\mt_deluxe(servicios)\Data\obj\Release\Data.csproj.CopyComplete
+C:\mt_deluxe(servicios)\Data\obj\Release\Data.dll
+C:\mt_deluxe(servicios)\Data\obj\Release\Data.pdb
