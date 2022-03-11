@@ -36,3 +36,9 @@ C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitar
 C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.dll
 C:\Users\User\Documents\mt_deluxe_servicios_unico\Utilitarios\obj\Debug\Utilitarios.pdb
 C:\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\ALEJANDRA\Documents\UNIVERSIDAD\9 SEMESTRE\LINEA DE PROFUNDIZACION III\PROYECTO\mt_deluxe(servicios)\Utilitarios\obj\Debug\Utilitarios.pdb
