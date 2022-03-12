@@ -16,7 +16,7 @@ namespace ApiServicios.Controllers
         /// Muestra listado de destino (y ubicacion)
         /// </summary>
         /// <returns></returns>
-        [Authorize]
+       // [Authorize]
         [HttpGet]
         [Route("destinos")]
         public List<Destino> getDestinos()
@@ -28,7 +28,7 @@ namespace ApiServicios.Controllers
         /// Muestra listado de ubicacion (y destino)
         /// </summary>
         /// <returns></returns>
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         [Route("ubicaciones")]
         public List<Destino> getUbicaciones()
@@ -40,7 +40,7 @@ namespace ApiServicios.Controllers
         /// Muestra listado de metodos de pago
         /// </summary>
         /// <returns></returns>
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         [Route("metodoPago")]
         public List<MPago> getPagos()
@@ -52,7 +52,7 @@ namespace ApiServicios.Controllers
         /// Muestra listado de conductores disponibles
         /// </summary>
         /// <returns></returns>
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         [Route("conductoresDisponibles")]
         public List<Conductor> getConductoresDisponibles()

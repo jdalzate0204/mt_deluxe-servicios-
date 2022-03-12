@@ -20,7 +20,7 @@ namespace ApiServicios.Controllers
         /// </summary>
         /// <param name="servicio"></param>
         /// <returns></returns>
-        [Authorize]
+        //[Authorize]
         [HttpPost]
         [Route("solicitudServicio")]
         public async Task<IHttpActionResult> solicitudServicio([FromBody] JObject servicio)
@@ -70,7 +70,7 @@ namespace ApiServicios.Controllers
         /// </summary>
         /// <param name="cascaron"></param>
         /// <returns></returns>
-        [Authorize]
+        //[Authorize]
         [HttpPost]
         [Route("tarifas")]
         public Cascaron getTarifa(Cascaron cascaron)
