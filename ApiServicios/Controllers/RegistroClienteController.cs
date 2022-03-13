@@ -48,6 +48,11 @@ namespace ApiServicios.Controllers
                 string mensaje = "Correo existente, porfavor intente con otro";
                 return BadRequest(mensaje);
             }
+            else if (registro.Contrasena != registro.Confirmacion)
+            {
+                string mensaje = "Las contraseñas no coinciden";
+                return BadRequest(mensaje);
+            }
             else if (clienteV == null && clienteC == null)
             {
                 await new LRegistroCliente().registro(registro);

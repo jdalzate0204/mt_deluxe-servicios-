@@ -21,5 +21,7 @@ namespace Utilitarios.Entrada
         public string Usuario { get; set; }
         [Required(ErrorMessage = "La Contrasena es requerida.")]
         public string Contrasena { get; set; }
+        [Required(ErrorMessage = "La Confirmacion es requerida")]
+        public string Confirmacion { get; set; }
     }
 }
